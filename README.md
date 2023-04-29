@@ -26,7 +26,7 @@ This project aims to detect communities on Reddit using graph traversal and sear
 
 ## Collaborators
 
--   Oliver Tuesta - [GitHub Profile](https://github.com/oliverTuesta)
+-   [Oliver Tuesta](https://github.com/oliverTuesta)
 
 ## License
 
